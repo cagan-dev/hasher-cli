@@ -1,0 +1,5 @@
+hasher-cli
+*.o
+*.out
+*.exe
+.DS_Store
