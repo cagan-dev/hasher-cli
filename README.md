@@ -7,7 +7,6 @@ A simple command-line tool that calculates the SHA-256 hash of files using the O
 This program requires the OpenSSL development headers to be installed on your system.
 Debian / Ubuntu / Mint (APT)
 
-sudo apt update
 sudo apt install libssl-dev
 
 Fedora / RHEL / CentOS (DNF)
